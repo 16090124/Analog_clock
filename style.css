@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(to right,red,grey);
+    background: linear-gradient(to right,black,grey);
     color: black;
     display: flex;
     justify-content: center;
